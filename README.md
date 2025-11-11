@@ -1,4 +1,4 @@
-No P3, desenvolvi meu primeiro projeto utilizando o framework Spring, com foco na criação de APIs REST que implementam os principais CRUDs (Create, Read, Update, Delete).
+Desenvolvi meu primeiro projeto utilizando o framework Spring, com foco na criação de APIs REST que implementam os principais CRUDs (Create, Read, Update, Delete).
 Esse projeto foi construído como parte da disciplina de Back-End, em conjunto com um projeto de extensão.
 
 🔐 Funcionalidades principais:
